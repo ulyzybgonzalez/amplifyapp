@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Front End Application
+          Front End Application!
         </a>
       </header>
     </div>
